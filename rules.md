@@ -56,8 +56,11 @@ Vous devez impérativement respecter :
   **ne sont pas le but du serveur**. Ils sont **interdits dans les salons généraux**.  
 - Si un salon dédié existe, vous pouvez y discuter dans le respect des autres règles.  
 - Insister, relancer ou monopoliser le serveur avec ces sujets après une demande d’arrêt du staff = sanction immédiate.  
-
-➜ Le staff peut mettre fin à toute discussion jugée lourde, déplacée ou nuisible à l’ambiance.
+- **Gestion des débats par le staff** :  
+  ➜ Le staff peut demander l’arrêt immédiat d’une discussion devenue trop conflictuelle.  
+  ➜ Le staff peut verrouiller ou déplacer un sujet.  
+  ➜ Le staff peut lock (verrouiller) un salon le temps de calmer une embrouille.  
+  ➜ Refuser d’obtempérer après un avertissement peut entraîner une sanction.
 
 ---
 
@@ -65,7 +68,11 @@ Vous devez impérativement respecter :
 
 - Merci de respecter l’utilité de chaque salon.  
 - Les messages hors-sujet répétés pourront être **supprimés et sanctionnés**.  
-- **Le spam, le flood, les messages en majuscules excessives, les caractères répétitifs sont interdits.**
+- **Le spam, le flood, les messages en majuscules excessives, les caractères répétitifs sont interdits.**  
+
+**Détails sur le spam :**  
+  - Interdiction du spam d’emojis, de stickers, d’images ou GIFs.  
+  - Interdiction des réponses en chaîne destinées à flooder.
 
 ---
 
@@ -74,7 +81,11 @@ Vous devez impérativement respecter :
 **Tout spoiler peut être sanctionné**, même sans intention.  
 - Les spoilers doivent être masqués avec `||texte||`.  
 - Les salons dédiés « sans spoiler » ou « spoilers autorisés » doivent être respectés.  
-- Spoiler volontairement quelqu’un qui a demandé à ne pas l’être est une faute grave.
+- Spoiler volontairement quelqu’un qui a demandé à ne pas l’être est une faute grave.  
+- **Spoilers spécifiques à Persona (et autres œuvres)** :  
+  ➜ Interdiction de spoiler volontairement l’histoire.  
+  ➜ Obligation de masquer les spoilers concernant les fins, boss, révélations majeures ou DLC.  
+  ➜ Respect des salons dédiés aux spoilers.  
 
 **Comment mettre un spoiler ?**  
 `|| votre message ||`  
@@ -100,13 +111,66 @@ Vous devez impérativement respecter :
 
 **8. Contenu interdit (zéro tolérance)**
 
-Sont strictement interdits :
-- **NSFW** : pornographie, nudité, gore, violence extrême, contenu choquant
-- **Menaces, apologie de la violence, incitation au suicide ou à l’automutilation**
-- **Scam, hameçonnage, liens suspects, faux giveaways**
-- **Dox** (partage d’informations personnelles sans consentement)
-- **Double compte / alt** pour contourner une sanction (entraîne le bannissement de tous les comptes)
-- **Leak d’informations internes** (contenu de salons staff, sondages de bannissement, décisions privées)
+**NSFW et sexualisation :**  
+- Ce serveur est **entièrement SFW** (sauf éventuels salons spécifiques réservés aux 18+ clairement identifiés, mais le **NSFW explicite** (pornographie, nudité) est totalement interdit partout).  
+- Interdiction des images à caractère sexuel, même sous forme de blague.  
+- Interdiction des discussions sexuelles.  
+- Interdiction de sexualiser des personnages mineurs (même fictifs).  
+- Interdiction des montages volontairement choquants.  
+
+**Autres contenus interdits :**  
+- Menaces, apologie de la violence, incitation au suicide ou à l’automutilation.  
+- Scam, hameçonnage, liens suspects, faux cadeaux Nitro.  
+- Dox (partage d’informations personnelles sans consentement).  
+- Double compte / alt pour contourner une sanction (entraîne le bannissement de tous les comptes).  
+- Leak d’informations internes (contenu de salons staff, sondages de bannissement, décisions privées).  
+- Logiciels malveillants, fichiers suspects (.exe, .apk, etc.).  
+- Raids : interdiction d’organiser ou de participer à un raid, d’inviter massivement pour perturber le serveur.
+
+---
+
+**9. Salons vocaux**
+
+- Pas de cris volontaires dans le micro.  
+- Pas de spam de soundboard.  
+- Pas de diffusion de musique non demandée.  
+- Pas de bruits parasites volontaires.  
+- Ne pas couper systématiquement la parole aux autres.
+
+---
+
+**10. Mentions et pings**
+
+- Interdiction d’abuser des mentions.  
+- Interdiction de ping inutilement le staff.  
+- Interdiction de ping des rôles sans autorisation.  
+- Interdiction des mentions répétées pour obtenir une réponse plus vite.
+
+---
+
+**11. Messages privés (DM) liés au serveur**
+
+Les règles du serveur s’appliquent également aux DM lorsqu’ils concernent l’activité du serveur :  
+- Interdiction du harcèlement en messages privés.  
+- Interdiction d’insister après un refus.  
+- Interdiction des recrutements ou publicités non sollicités en DM.
+
+---
+
+**12. Signalements et accusations**
+
+- **Encouragez les signalements avec preuves** lorsque c’est possible (captures d’écran, liens).  
+- **Interdiction des accusations publiques sans preuve** – si vous pensez qu’un membre a enfreint une règle, ouvrez un ticket.  
+- **Interdiction des faux signalements malveillants** (utiliser les tickets pour nuire délibérément).  
+- **Privilégiez les tickets plutôt que de régler les conflits en public** – cela évite les escalades et permet au staff de traiter efficacement.
+
+---
+
+**13. Fausse modération**
+
+- **Interdiction de se comporter comme un modérateur lorsqu’on ne fait pas partie du staff** (donner des ordres, menacer de sanctions, prendre des décisions à la place du staff).  
+- **Interdiction de menacer les autres de sanctions imaginaires** (« tu vas être ban », « le staff va te virer », etc.).  
+- **Les membres doivent signaler les problèmes au staff plutôt que faire justice eux-mêmes** – ne jouez pas les justiciers.
 
 ---
 
@@ -166,6 +230,12 @@ Les sanctions possibles (seules ou combinées) :
 La gravité dépend du contexte, de l’intention, de la récidive et de la bonne foi.  
 **La bonne foi est prise en compte** (une erreur honnête = simple rappel).  
 **La mauvaise foi, le contournement ou la provocation** aggravent la sanction.
+
+**Contournement des sanctions et raids :**  
+- Interdiction de revenir après un ban avec un autre compte (alt).  
+- Interdiction d’utiliser un alt pour contourner un mute ou un avertissement.  
+- Interdiction d’organiser ou de participer à un raid.  
+- Interdiction d’inviter massivement des personnes pour perturber le serveur.
 
 ---
 
