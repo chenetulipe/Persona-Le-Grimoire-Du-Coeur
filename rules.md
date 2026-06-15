@@ -8,7 +8,7 @@ En rejoignant le serveur, **vous acceptez l’ensemble de ces règles**.
 
 ## ✧･ﾟ: *✧･ﾟ:* 📜 RÈGLES GÉNÉRALES *:･ﾟ✧*:･ﾟ✧
 
-**1. Respect des règles Discord**
+**1. Respect des règles Discord** 67
 
 Vous devez impérativement respecter :  
 - les **[Conditions d’Utilisation de Discord](https://discord.com/terms)**  
