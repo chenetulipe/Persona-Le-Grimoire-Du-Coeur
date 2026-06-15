@@ -25,7 +25,9 @@ Vous devez impérativement respecter :
 - Les insultes sont interdites, sauf dans un cadre **clairement amical et consenti**, et **dans la limite du raisonnable**.  
 - **Le harcèlement, l’acharnement (dogpiling) ou le fait de suivre un membre dans plusieurs salons pour l’attaquer est interdit.**  
 - **Les « blagues » discriminatoires ou dégradantes ne seront pas tolérées**, même sous couvert d’humour ou de second degré.  
-- **Le “ragebait”** : un message conçu pour provoquer une réaction émotionnelle forte ou déclencher un conflit n’est pas automatiquement interdit, mais le staff jugera si cela dépasse les limites d’une plaisanterie acceptable. On peut rire, mais pas nuire volontairement à l’ambiance. Si un message est clairement toxique ou visant à créer du chaos, il sera sanctionné.
+- **Le “ragebait”** : un message conçu pour provoquer une réaction émotionnelle forte ou déclencher un conflit n’est pas automatiquement interdit, mais le staff jugera si cela dépasse les limites d’une plaisanterie acceptable. On peut rire, mais pas nuire volontairement à l’ambiance. Si un message est clairement toxique ou visant à créer du chaos, il sera sanctionné.  
+- **Le “Backseat Gaming” non sollicité** : Respectez la découverte des autres joueurs. Donner des solutions, optimiser des builds de Persona à fond ou critiquer lourdement les choix de confidents d’un membre alors qu’il n’a rien demandé est interdit. Sauf si la personne demande explicitement de l’aide.  
+- **Ne faites pas la police à la place de l’équipe** : Si un membre enfreint le règlement, ne faites pas justice vous-même. Ouvrez un ticket ou signalez-le calmement au staff.
 
 ➜ Le staff se réserve le droit de juger si un comportement dépasse les limites.
 
@@ -69,6 +71,7 @@ Vous devez impérativement respecter :
 - Merci de respecter l’utilité de chaque salon.  
 - Les messages hors-sujet répétés pourront être **supprimés et sanctionnés**.  
 - **Le spam, le flood, les messages en majuscules excessives, les caractères répétitifs sont interdits.**  
+- **Le “Venting” (déballage personnel)** : Pour préserver une ambiance saine et le bien-être de chacun, les salons généraux ne sont pas des espaces de thérapie. Le partage de pensées trop sombres ou de problèmes personnels lourds y est interdit. Si vous avez besoin de parler, orientez-vous vers des ressources adaptées ou ouvrez un ticket (sans garantie d’une prise en charge psychologique).  
 
 **Détails sur le spam :**  
   - Interdiction du spam d’emojis, de stickers, d’images ou GIFs.  
@@ -80,21 +83,22 @@ Vous devez impérativement respecter :
 
 **Tout spoiler peut être sanctionné**, même sans intention.  
 - Les spoilers doivent être masqués avec `||texte||`.  
+- **Format obligatoire** : Pour éviter que les membres ne cliquent au hasard, toute balise spoiler doit être précédée du nom du jeu ou de l’œuvre concernée.  
+  Exemple : `[Spoiler P5R] ||Ren Amamiya est le protagoniste de Persona 5||`  
 - Les salons dédiés « sans spoiler » ou « spoilers autorisés » doivent être respectés.  
 - Spoiler volontairement quelqu’un qui a demandé à ne pas l’être est une faute grave.  
 - **Spoilers spécifiques à Persona (et autres œuvres)** :  
   ➜ Interdiction de spoiler volontairement l’histoire.  
   ➜ Obligation de masquer les spoilers concernant les fins, boss, révélations majeures ou DLC.  
-  ➜ Respect des salons dédiés aux spoilers.  
 
 **Comment mettre un spoiler ?**  
-`|| votre message ||`  
+`[Nom du jeu] ||votre message||`  
 
 ➜ En cas de doute, demandez au staff avant de poster.
 
 ---
 
-**7. Publicité et partages**
+**7. Publicité, partages et crédits**
 
 - **Toute publicité pour d’autres serveurs Discord est interdite**, même en message privé.  
 - **Pour les créations personnelles** (fanart, fanfiction, vidéos, streams) :  
@@ -102,7 +106,8 @@ Vous devez impérativement respecter :
   - Pour les **médias** (vidéos YouTube, Twitch, etc.) : utilisez le salon **#média** (ou salon dédié selon sa description).  
   - Les contenus liés à **Atlus, Persona, SMT** sont les bienvenus.  
   - **Pas de spam** : un message occasionnel pour partager une création, pas de relances quotidiennes.  
-  - **Les messages du type « j’ai sorti une vidéo » seuls, sans contexte ni participation, peuvent être supprimés.**  
+- **Crédits obligatoires** : Si vous partagez une œuvre (fanart, même sous forme de mème) qui n’est pas la vôtre, vous devez obligatoirement citer le nom de l’artiste original et, si possible, inclure un lien vers ses réseaux.  
+- **Piratage et DMCA** : Le partage direct de fichiers sous droit d’auteur (ROMs brutes, ISOs de jeux, musiques officielles en téléchargement direct) est strictement interdit afin de protéger le serveur. Les liens vers des outils de modding légaux ou des patchs de traduction sont en revanche autorisés.  
 - **Pour toute autre forme de partage** (projet personnel hors Atlus, appel à dons, sondages externes, etc.) : **ouvrez un ticket** pour demander l’autorisation au staff.  
 
 ➜ Les publicités non autorisées en messages privés peuvent mener à un bannissement.
@@ -144,7 +149,9 @@ Vous devez impérativement respecter :
 - Interdiction d’abuser des mentions.  
 - Interdiction de ping inutilement le staff.  
 - Interdiction de ping des rôles sans autorisation.  
-- Interdiction des mentions répétées pour obtenir une réponse plus vite.
+- Interdiction des mentions répétées pour obtenir une réponse plus vite.  
+- **Ghost pings** : Mentionner un membre ou le staff puis supprimer immédiatement son message est interdit.  
+- **Pings de masse non justifiés** : Mentionner un grand nombre de personnes sans raison valable est interdit.
 
 ---
 
@@ -257,7 +264,8 @@ Ce règlement est là pour garantir une **bonne ambiance**, pas pour brider inut
 **Ce que l’on attend de vous :**  
 ✔ Lire et appliquer le règlement  
 ✔ Accueillir les nouveaux avec bienveillance  
-✔ Masquer vos spoilers  
+✔ Masquer vos spoilers avec le nom du jeu  
+✔ Créditer les œuvres que vous partagez  
 ✔ Rester respectueux, même en désaccord  
 ✔ Utiliser les tickets à bon escient  
 ✔ Signaler les problèmes au staff, pas dans le chat général  
