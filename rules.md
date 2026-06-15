@@ -117,7 +117,7 @@ Vous devez impérativement respecter :
 **8. Contenu interdit (zéro tolérance)**
 
 **NSFW et sexualisation :**  
-- Ce serveur est **entièrement SFW** (sauf éventuels salons spécifiques réservés aux 18+ clairement identifiés, mais le **NSFW explicite** (pornographie, nudité) est totalement interdit partout).  
+- Ce serveur est **entièrement SFW** 
 - Interdiction des images à caractère sexuel, même sous forme de blague.  
 - Interdiction des discussions sexuelles.  
 - Interdiction de sexualiser des personnages mineurs (même fictifs).  
