@@ -1,10 +1,12 @@
-# :sparkles: **BIENVENUE DANS LA CHAMBRE DE VELOURS** :star:
+# ✦ BIENVENUE DANS LA CHAMBRE DE VELOURS ✦
 
 Ce serveur est un **serveur communautaire Persona**, destiné à l’échange, au partage et à la discussion dans un cadre **respectueux, sain et agréable pour tous**.  
 Merci de lire attentivement le règlement ci-dessous.  
 En rejoignant le serveur, **vous acceptez l’ensemble de ces règles**.
 
-## ✧･ﾟ: *✧･ﾟ:* :scroll: RÈGLES GÉNÉRALES *:･ﾟ✧*:･ﾟ✧
+---
+
+## ✧･ﾟ: *✧･ﾟ:* 📜 RÈGLES GÉNÉRALES *:･ﾟ✧*:･ﾟ✧
 
 **1. Respect des règles Discord**
 
@@ -12,7 +14,7 @@ Vous devez impérativement respecter :
 - les **[Conditions d’Utilisation de Discord](https://discord.com/terms)**  
 - la **[Charte d’Utilisation de la Communauté Discord](https://discord.com/guidelines)**  
 
-:arrow: Toute infraction à ces règles pourra entraîner une sanction, y compris un signalement à Discord.
+➜ Toute infraction à ces règles pourra entraîner une sanction, y compris un signalement à Discord.
 
 ---
 
@@ -22,17 +24,35 @@ Vous devez impérativement respecter :
 - Les propos agressifs, provocateurs ou toxiques ne sont pas tolérés.  
 - Les insultes sont interdites, sauf dans un cadre **clairement amical et consenti**, et **dans la limite du raisonnable**.  
 - **Le harcèlement, l’acharnement (dogpiling) ou le fait de suivre un membre dans plusieurs salons pour l’attaquer est interdit.**  
-- **Les « blagues » discriminatoires ou dégradantes ne seront pas tolérées**, même sous couvert d’humour ou de second degré.
+- **Les « blagues » discriminatoires ou dégradantes ne seront pas tolérées**, même sous couvert d’humour ou de second degré.  
+- **Le “ragebait”** (message conçu uniquement pour provoquer une réaction émotionnelle forte, déclencher un conflit ou faire réagir négativement) est interdit. Le staff jugera si un message relève du ragebait, même sans insulte explicite.
 
-:arrow: Le staff se réserve le droit de juger si un comportement dépasse les limites.
+➜ Le staff se réserve le droit de juger si un comportement dépasse les limites.
 
 ---
 
 **3. Discriminations et discours haineux (tolérance zéro)**
 
-- **Toute forme de discrimination est strictement interdite** :  
-  homophobie, transphobie, racisme, sexisme, validisme, grossophobie, etc.  
-- Les propos ou comportements discriminatoires seront **sanctionnés sans avertissement préalable** (mute ou ban direct).
+**Toute forme de discrimination est strictement interdite**, qu’elle soit directe ou déguisée. Cela inclut, sans s’y limiter :
+
+- **Racisme** : propos dénigrants envers une ethnie, une couleur de peau, une origine nationale ou culturelle.  
+- **Xénophobie** : rejet ou hostilité envers les personnes perçues comme « étrangères ».  
+- **Sexisme** : propos ou comportements dévalorisant un genre, stéréotypes sexistes, remarques sur les compétences liées au genre.  
+- **Misogynie / Misandrie** : haine ou mépris envers les femmes ou les hommes.  
+- **Homophobie, Lesbophobie, Biphobie** : rejet, moquerie ou hostilité envers l’homosexualité, la lesbianité ou la bisexualité.  
+- **Transphobie** : refus de respecter l’identité de genre d’une personne, deadnaming (utiliser l’ancien prénom), mégenrage volontaire, propos niant la transidentité.  
+- **Validisme** : discrimination envers les personnes handicapées (physique, mental, invisible). Moquerie d’un tic, d’un trouble, d’un comportement lié à un handicap.  
+- **Grossophobie** : moquerie ou discrimination basée sur le poids ou la corpulence.  
+- **Âgisme** : discrimination basée sur l’âge (trop jeune, trop vieux).  
+- **Discrimination religieuse** : attaques ou mépris envers une religion ou ses pratiquants (à ne pas confondre avec la critique raisonnée d’une institution).  
+
+**Termes moins connus expliqués :**  
+- *Validisme* : préjugés ou discriminations envers les personnes en situation de handicap (moteur, sensoriel, psychique, invisible comme l’autisme, la dyslexie, etc.).  
+- *Grossophobie* : rejet ou moquerie liés au poids, souvent normalisée socialement mais tout aussi blessante.  
+- *Deadnaming* : utiliser le prénom antérieur d’une personne trans sans son consentement.  
+- *Mégenrage* : employer délibérément des pronoms ou accords qui ne correspondent pas au genre affirmé par la personne.  
+
+➜ **Tout propos ou comportement discriminatoire sera sanctionné sans avertissement préalable** (mute ou ban direct).
 
 ---
 
@@ -44,7 +64,7 @@ Vous devez impérativement respecter :
 - Si un salon dédié existe, vous pouvez y discuter dans le respect des autres règles.  
 - Insister, relancer ou monopoliser le serveur avec ces sujets après une demande d’arrêt du staff = sanction immédiate.  
 
-:arrow: Le staff peut mettre fin à toute discussion jugée lourde, déplacée ou nuisible à l’ambiance.
+➜ Le staff peut mettre fin à toute discussion jugée lourde, déplacée ou nuisible à l’ambiance.
 
 ---
 
@@ -66,16 +86,20 @@ Vous devez impérativement respecter :
 **Comment mettre un spoiler ?**  
 `|| votre message ||`  
 
-:arrow: En cas de doute, demandez au staff avant de poster.
+➜ En cas de doute, demandez au staff avant de poster.
 
 ---
 
-**7. Publicité**
+**7. Publicité et partages**
 
-- Toute forme de publicité (serveurs, réseaux sociaux, projets commerciaux, etc.) est **interdite**, sauf **autorisation explicite du staff**.  
-- **Les messages privés publicitaires envoyés aux membres du serveur sont également interdits** et peuvent mener à un bannissement.  
+- **Toute publicité pour d’autres serveurs Discord est interdite**, même en message privé.  
+- **Pour les créations personnelles** (fanart, fanfiction, vidéos, streams) :  
+  - Les contenus liés à **Atlus, Persona, SMT** sont autorisés **dans les salons dédiés** (ex: #partage-art, #videos).  
+  - **Pas de spam** : un message occasionnel pour partager une création, pas de relances quotidiennes.  
+  - **Les messages du type « j’ai sorti une vidéo » seuls, sans contexte ni participation, peuvent être supprimés.**  
+- **Pour toute autre forme de partage** (projet personnel hors Atlus, appel à dons, sondages externes, etc.) : **ouvrez un ticket** pour demander l’autorisation au staff.  
 
-:arrow: Si vous souhaitez partager quelque chose, **demandez d’abord au staff** avant de poster.
+➜ Les publicités non autorisées en messages privés peuvent mener à un bannissement.
 
 ---
 
@@ -91,7 +115,7 @@ Sont strictement interdits :
 
 ---
 
-## ✧･ﾟ: *✧･ﾟ:* :inbox_tray: ACCUEIL DES NOUVEAUX MEMBRES *:･ﾟ✧*:･ﾟ✧
+## ✧･ﾟ: *✧･ﾟ:* 📥 ACCUEIL DES NOUVEAUX MEMBRES *:･ﾟ✧*:･ﾟ✧
 
 Pour garantir une bonne ambiance et éviter les tensions :
 
@@ -104,52 +128,65 @@ Pour garantir une bonne ambiance et éviter les tensions :
   - le « tester » sur ses connaissances de Persona
 - Si vous suspectez un problème légitime (compte suspect, comportement toxique), **contactez le staff en ticket** – ne faites pas justice vous-même.
 
-:arrow: **Un accueil inapproprié sera sanctionné** (rappel, puis mute, puis exclusion en cas de récidive).
+➜ **Un accueil inapproprié sera sanctionné** (rappel, puis mute, puis exclusion en cas de récidive).
 
 ---
 
-## ✧･ﾟ: *✧･ﾟ:* :ticket: TICKETS ET CONTACT STAFF *:･ﾟ✧*:･ﾟ✧
+## ✧･ﾟ: *✧･ﾟ:* 🎟️ TICKETS ET CONTACT STAFF *:･ﾟ✧*:･ﾟ✧
 
-- Utilisez les tickets pour **un sujet précis** (signalement, question, litige).
-- **N’ouvrez pas de ticket pour :**
-  - une demande déjà refusée
-  - exiger une réponse immédiate en dehors des heures d’activité du staff
-  - insulter ou attaquer un membre du staff
-  - faire du « harcèlement procédurier » (ouvrir des tickets en série pour déstabiliser)
-- **Ne contestez jamais une sanction dans les salons publics.** Ouvrez un ticket dédié.
-- Le staff s’engage à répondre sous **48h** (sauf absence signalée). En dehors des heures d’activité (environ 9h-23h), la réponse peut être plus lente.
+**Horaires de réponse** : Le staff répond aux tickets entre **10h et 22h** (heure de France).  
+Si vous ouvrez un ticket en dehors de ces horaires, le staff se réserve le droit de ne pas y répondre immédiatement (réponse le lendemain ou à la prochaine plage horaire).
 
----
+**Liens utiles** (salons de tickets) :  
+- [Contactez le staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128020537311292) – pour toute question ou signalement  
+- [Candidature staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128035212922991) – pour rejoindre l’équipe  
+- [Contacter le haut staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128011242475561) – pour un problème concernant un membre du staff
 
-## ✧･ﾟ: *✧･ﾟ:* :shield: MODÉRATION ET SANCTIONS *:･ﾟ✧*:･ﾟ✧
+**Règles d’utilisation des tickets :**  
+- Utilisez les tickets pour **un sujet précis** (signalement, question, litige).  
+- **N’ouvrez pas de ticket pour :**  
+  - une demande déjà refusée  
+  - exiger une réponse immédiate en dehors des heures d’activité  
+  - insulter ou attaquer un membre du staff  
+  - faire du « harcèlement procédurier » (ouvrir des tickets en série pour déstabiliser)  
+- **Ne contestez jamais une sanction dans les salons publics.** Ouvrez un ticket dédié.  
 
-- Le staff se réserve le droit de **sanctionner un comportement même s’il n’est pas explicitement écrit dans le règlement**, si celui-ci est jugé problématique, nuisible ou contraire à l’esprit du serveur.
-- Les sanctions possibles (seules ou combinées) :
-  - **Rappel oral** (public ou privé)
-  - **Avertissement (warn)** enregistré
-  - **Mute temporaire** (de 1 heure à 30 jours)
-  - **Expulsion (kick)** (réintégration possible sous conditions)
-  - **Ban temporaire** (7, 14, 30 jours)
-  - **Ban définitif**
-- La gravité dépend du contexte, de l’intention, de la récidive et de la bonne foi.
-- **La bonne foi est prise en compte** (une erreur honnête = simple rappel).  
-  **La mauvaise foi, le contournement ou la provocation** aggravent la sanction.
+**Si un membre du staff vous semble problématique** :  
+→ Ouvrez un ticket en direction du **haut staff** (lien ci-dessus) ou envoyez un message privé à un autre staff de confiance qui pourra remonter l’information. Le haut staff rédigera une réponse officielle.
 
 ---
 
-## ✧･ﾟ: *✧･ﾟ:* :gear: ENGAGEMENTS DU STAFF *:･ﾟ✧*:･ﾟ✧
+## ✧･ﾟ: *✧･ﾟ:* 🛡️ MODÉRATION ET SANCTIONS *:･ﾟ✧*:･ﾟ✧
+
+Le staff se réserve le droit de **sanctionner un comportement même s’il n’est pas explicitement écrit dans le règlement**, si celui-ci est jugé problématique, nuisible ou contraire à l’esprit du serveur.
+
+Les sanctions possibles (seules ou combinées) :  
+- **Rappel oral** (public ou privé)  
+- **Avertissement (warn)** enregistré  
+- **Mute temporaire** (de 1 heure à 30 jours)  
+- **Expulsion (kick)** (réintégration possible sous conditions)  
+- **Ban temporaire** (7, 14, 30 jours)  
+- **Ban définitif**
+
+La gravité dépend du contexte, de l’intention, de la récidive et de la bonne foi.  
+**La bonne foi est prise en compte** (une erreur honnête = simple rappel).  
+**La mauvaise foi, le contournement ou la provocation** aggravent la sanction.
+
+---
+
+## ✧･ﾟ: *✧･ﾟ:* ⚙️ ENGAGEMENTS DU STAFF *:･ﾟ✧*:･ﾟ✧
 
 Pour une modération juste et transparente :
 
-- Les membres du staff respectent les mêmes règles que les autres.
-- Un staff ne peut pas se sanctionner lui-même.
-- Toute sanction doit être motivée (quelle règle a été enfreinte ?).
-- Les bans de plus de 7 jours nécessitent l’accord d’au moins deux membres du staff (sauf urgence évidente).
-- Si vous estimez qu’un staff abuse de son pouvoir, ouvrez un ticket à destination du responsable de la modération.
+- Les membres du staff respectent les mêmes règles que les autres.  
+- Un staff ne peut pas se sanctionner lui-même.  
+- Toute sanction doit être motivée (quelle règle a été enfreinte ?).  
+- Les bans de plus de 7 jours nécessitent l’accord d’au moins deux membres du staff (sauf urgence évidente).  
+- Si vous estimez qu’un staff abuse de son pouvoir, ouvrez un ticket à destination du haut staff (lien ci-dessus).
 
 ---
 
-## ✧･ﾟ: *✧･ﾟ:* :speech_balloon: MOT DE FIN *:･ﾟ✧*:･ﾟ✧
+## ✧･ﾟ: *✧･ﾟ:* 💬 MOT DE FIN *:･ﾟ✧*:･ﾟ✧
 
 Ce règlement est là pour garantir une **bonne ambiance**, pas pour brider inutilement.  
 **Ce que l’on attend de vous :**  
@@ -162,4 +199,6 @@ Ce règlement est là pour garantir une **bonne ambiance**, pas pour brider inut
 
 Si vous avez un doute, une question ou un problème, **contactez le staff** via le support.
 
-### :sunny: **Bon séjour dans la Chambre de Velours** :star2:
+---
+
+### ☀️ **Bon séjour dans la Chambre de Velours** ✨
