@@ -25,7 +25,7 @@ Vous devez impérativement respecter :
 - Les insultes sont interdites, sauf dans un cadre **clairement amical et consenti**, et **dans la limite du raisonnable**.  
 - **Le harcèlement, l’acharnement (dogpiling) ou le fait de suivre un membre dans plusieurs salons pour l’attaquer est interdit.**  
 - **Les « blagues » discriminatoires ou dégradantes ne seront pas tolérées**, même sous couvert d’humour ou de second degré.  
-- **Le “ragebait”** (message conçu uniquement pour provoquer une réaction émotionnelle forte, déclencher un conflit ou faire réagir négativement) est interdit. Le staff jugera si un message relève du ragebait, même sans insulte explicite.
+- **Le “ragebait”** : un message conçu pour provoquer une réaction émotionnelle forte ou déclencher un conflit n’est pas automatiquement interdit, mais le staff jugera si cela dépasse les limites d’une plaisanterie acceptable. On peut rire, mais pas nuire volontairement à l’ambiance. Si un message est clairement toxique ou visant à créer du chaos, il sera sanctionné.
 
 ➜ Le staff se réserve le droit de juger si un comportement dépasse les limites.
 
@@ -43,14 +43,7 @@ Vous devez impérativement respecter :
 - **Transphobie** : refus de respecter l’identité de genre d’une personne, deadnaming (utiliser l’ancien prénom), mégenrage volontaire, propos niant la transidentité.  
 - **Validisme** : discrimination envers les personnes handicapées (physique, mental, invisible). Moquerie d’un tic, d’un trouble, d’un comportement lié à un handicap.  
 - **Grossophobie** : moquerie ou discrimination basée sur le poids ou la corpulence.  
-- **Âgisme** : discrimination basée sur l’âge (trop jeune, trop vieux).  
-- **Discrimination religieuse** : attaques ou mépris envers une religion ou ses pratiquants (à ne pas confondre avec la critique raisonnée d’une institution).  
-
-**Termes moins connus expliqués :**  
-- *Validisme* : préjugés ou discriminations envers les personnes en situation de handicap (moteur, sensoriel, psychique, invisible comme l’autisme, la dyslexie, etc.).  
-- *Grossophobie* : rejet ou moquerie liés au poids, souvent normalisée socialement mais tout aussi blessante.  
-- *Deadnaming* : utiliser le prénom antérieur d’une personne trans sans son consentement.  
-- *Mégenrage* : employer délibérément des pronoms ou accords qui ne correspondent pas au genre affirmé par la personne.  
+- **Discrimination religieuse** : attaques insultantes ou mépris systématique envers une religion ou ses croyants. La critique raisonnée d’une institution religieuse (sans attaque personnelle) reste autorisée, mais les généralités blessantes ou les propos stigmatisants sont interdits.
 
 ➜ **Tout propos ou comportement discriminatoire sera sanctionné sans avertissement préalable** (mute ou ban direct).
 
@@ -94,7 +87,9 @@ Vous devez impérativement respecter :
 
 - **Toute publicité pour d’autres serveurs Discord est interdite**, même en message privé.  
 - **Pour les créations personnelles** (fanart, fanfiction, vidéos, streams) :  
-  - Les contenus liés à **Atlus, Persona, SMT** sont autorisés **dans les salons dédiés** (ex: #partage-art, #videos).  
+  - Utilisez le salon **#partage-artistes-créations** pour vos dessins, écrits, musiques, etc.  
+  - Pour les **médias** (vidéos YouTube, Twitch, etc.) : utilisez le salon **#média** (ou salon dédié selon sa description).  
+  - Les contenus liés à **Atlus, Persona, SMT** sont les bienvenus.  
   - **Pas de spam** : un message occasionnel pour partager une création, pas de relances quotidiennes.  
   - **Les messages du type « j’ai sorti une vidéo » seuls, sans contexte ni participation, peuvent être supprimés.**  
 - **Pour toute autre forme de partage** (projet personnel hors Atlus, appel à dons, sondages externes, etc.) : **ouvrez un ticket** pour demander l’autorisation au staff.  
