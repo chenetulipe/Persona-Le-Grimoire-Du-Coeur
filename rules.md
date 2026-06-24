@@ -59,10 +59,14 @@ Vous devez impérativement respecter :
 - S'il existe un salon prévu à cet effet, vous pouvez y discuter en respectant les règles.
 - Insister ou monopoliser l'attention avec ces sujets après que le staff a demandé d'arrêter entraîne une sanction immédiate.
 - **Gestion des conflits par le staff** :
-  -➜ Le staff peut demander d'arrêter tout de suite un débat trop tendu.
-  -➜ Le staff peut verrouiller ou déplacer une discussion.
-  -➜ Le staff peut bloquer un salon le temps que tout le monde se calme.
-  -➜ Refuser de coopérer après un avertissement conduit à une sanction.
+
+  ➜ Le staff peut demander d'arrêter tout de suite un débat trop tendu.
+  
+  ➜ Le staff peut verrouiller ou déplacer une discussion.
+  
+  ➜ Le staff peut bloquer un salon le temps que tout le monde se calme.
+  
+  ➜ Refuser de coopérer après un avertissement conduit à une sanction.
 
 ---
 
