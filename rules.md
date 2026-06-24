@@ -258,7 +258,7 @@ L'équipe s'engage à être juste et réglo avec tout le monde :
 
 - Le staff obéit aux mêmes règles que les membres.
 - Toute sanction doit être justifiée clairement.
-- Les bans longs sont validés par au moins deux modérateurs (sauf cas d'extrême urgence).
+- Les bans longs sont validés par au moins deux administrateurs (sauf cas d'extrême urgence).
 - Si un modo abuse de ses droits, n'hésitez pas à alerter le haut staff.
 
 ---
