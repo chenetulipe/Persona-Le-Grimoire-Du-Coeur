@@ -226,7 +226,7 @@ Si vous ouvrez un ticket tard la nuit, on vous répondra le lendemain.
 - Ne rouvrez pas un ticket pour une demande déjà refusée.
 - N'exigez pas une réponse dans la seconde à 3h du matin.
 - Ne spammez pas les tickets pour embêter le monde.
-- **Si vous prenez une sanction, n'en parlez jamais en public.** Venez vous expliquer dans un ticket, au calme.
+- **Si vous souhaitez contester une sanction, n'en parlez jamais en public.** Venez vous expliquer dans un ticket, au calme.
 
 **Problème avec un modérateur ?**
 Ouvrez un ticket pour le haut staff ou parlez-en en privé à un administrateur en qui vous avez confiance.
