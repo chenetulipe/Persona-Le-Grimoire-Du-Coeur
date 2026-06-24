@@ -256,7 +256,7 @@ Tout dépend du contexte. Si vous faites une vraie erreur et que vous êtes de b
 
 L'équipe s'engage à être juste et réglo avec tout le monde :
 
-- Le staff obéit aux mêmes règles que les joueurs.
+- Le staff obéit aux mêmes règles que les membres.
 - Toute sanction doit être justifiée clairement.
 - Les bans longs sont validés par au moins deux modérateurs (sauf cas d'extrême urgence).
 - Si un modo abuse de ses droits, n'hésitez pas à alerter le haut staff.
@@ -268,11 +268,17 @@ L'équipe s'engage à être juste et réglo avec tout le monde :
 Ces règles sont juste là pour que le serveur reste un endroit cool. On ne veut pas vous fliquer pour rien.
 
 **Ce qu'on attend de vous :**
+
 ✔ Lisez et respectez ces règles.
+
 ✔ Dites bonjour aux nouveaux sans les brusquer.
+
 ✔ Pensez aux balises spoilers !
+
 ✔ Créditez toujours les artistes.
+
 ✔ Restez chill, même quand vous n'êtes pas d'accord.
+
 ✔ Ne lavez pas votre linge sale en public, utilisez les tickets.
 
 Si vous avez un problème ou une hésitation, **appelez le staff**.
