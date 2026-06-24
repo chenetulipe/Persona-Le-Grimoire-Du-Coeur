@@ -92,8 +92,11 @@ Vous devez impérativement respecter :
 - Respectez les règles des salons spécifiques (sans spoiler ou full spoil).
 - Gâcher la surprise à quelqu'un qui a demandé à ne pas être spoilé est une faute grave.
 - **Concernant Persona et les autres jeux** :
+
   ➜ Ne spoilez jamais l'histoire volontairement.
+  
   ➜ Masquez toujours ce qui touche aux fins, aux boss, aux gros twists ou aux DLC.
+  
   ➜ **Fuites et Datamining** : Le partage d'infos volées ou de leaks sur les prochains jeux doit obligatoirement être caché sous balise spoiler.
 
 ➜ Au moindre doute, posez la question au staff avant de poster.
