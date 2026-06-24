@@ -110,7 +110,7 @@ Vous devez impérativement respecter :
   - Postez vos dessins, textes et musiques dans **#partage-artistes-créations**.
   - **IA** : L'art généré par intelligence artificielle n'a pas sa place dans le salon créations. Vous pouvez envoyer des images IA pour rire dans les salons généraux, sans en abuser et sans vous prétendre artiste. On respecte le vrai travail artistique.
   - Pour les **vidéos ou streams**, utilisez le salon **#média**.
-  - Tout ce qui touche à **Atlus, Persona ou SMT** est fortement encouragé.
+  - Tout ce qui touche à **Atlus, Persona, SMT ou à l'univers Megaten** est fortement encouragé.
   - **Ne spammez pas** : Partagez vos trucs de temps en temps, mais pas tous les jours.
 - **Créditez les artistes** : Si vous postez un fanart ou un montage qui n'est pas de vous, donnez le nom du créateur et ajoutez un lien vers son compte si possible.
 - **Piratage** : Pour protéger le serveur, le partage direct de fichiers protégés (ROMs, jeux, musiques officielles) est formellement interdit. Les liens vers des patchs ou du modding légal restent autorisés.
