@@ -1,7 +1,9 @@
 # ✦ BIENVENUE DANS LA CHAMBRE DE VELOURS ✦
 
 Ce serveur est un **serveur communautaire Persona** destiné à l'échange, au partage et à la discussion dans un cadre **respectueux, sain et agréable pour tous**. Le **vivre-ensemble** et le bon sens priment avant tout.
+
 Merci de lire attentivement le règlement ci-dessous.
+
 En rejoignant le serveur et en y postant un message, **vous acceptez implicitement toutes ces règles**. Chercher des failles dans ce règlement pour justifier un comportement toxique est considéré comme de la mauvaise foi et sera sanctionné.
 
 ---
