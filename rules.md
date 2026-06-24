@@ -1,8 +1,8 @@
 # ✦ BIENVENUE DANS LA CHAMBRE DE VELOURS ✦
 
-Ce serveur est un **serveur communautaire Persona**, destiné à l’échange, au partage et à la discussion dans un cadre **respectueux, sain et agréable pour tous**.  
+Ce serveur est un **serveur communautaire Persona**, destiné à l’échange, au partage et à la discussion dans un cadre **respectueux, sain et agréable pour tous**. Le **vivre-ensemble** et le bon sens priment avant tout.  
 Merci de lire attentivement le règlement ci-dessous.  
-En rejoignant le serveur, **vous acceptez l’ensemble de ces règles**.
+En rejoignant le serveur et en y envoyant un message, **vous acceptez implicitement l’ensemble de ces règles**. Chercher des failles dans ce règlement pour justifier un comportement toxique sera considéré comme de la mauvaise foi et sanctionné.
 
 ---
 
@@ -90,6 +90,7 @@ Vous devez impérativement respecter :
 - **Spoilers spécifiques à Persona (et autres œuvres)** :  
   ➜ Interdiction de spoiler volontairement l’histoire.  
   ➜ Obligation de masquer les spoilers concernant les fins, boss, révélations majeures ou DLC.  
+  ➜ **Leaks et Datamining** : Tout partage de fuites (leaks) concernant les futurs jeux ou annonces doit obligatoirement être masqué par des balises spoilers.
 
 **Comment mettre un spoiler ?**  
 `[Nom du jeu] ||votre message||`  
@@ -103,6 +104,7 @@ Vous devez impérativement respecter :
 - **Toute publicité pour d’autres serveurs Discord est interdite**, même en message privé.  
 - **Pour les créations personnelles** (fanart, fanfiction, vidéos, streams) :  
   - Utilisez le salon **#partage-artistes-créations** pour vos dessins, écrits, musiques, etc.  
+  - **Intelligence Artificielle (IA)** : L'art généré par IA est strictement interdit dans le salon #partage-artistes-créations. Vous pouvez partager des images IA dans les salons généraux pour rigoler, à condition de ne pas spammer et de ne pas vous autoproclamer artiste. Le respect du travail artistique est primordial.
   - Pour les **médias** (vidéos YouTube, Twitch, etc.) : utilisez le salon **#média** (ou salon dédié selon sa description).  
   - Les contenus liés à **Atlus, Persona, SMT** sont les bienvenus.  
   - **Pas de spam** : un message occasionnel pour partager une création, pas de relances quotidiennes.  
@@ -130,7 +132,13 @@ Vous devez impérativement respecter :
 - Double compte / alt pour contourner une sanction (entraîne le bannissement de tous les comptes).  
 - Leak d’informations internes (contenu de salons staff, sondages de bannissement, décisions privées).  
 - Logiciels malveillants, fichiers suspects (.exe, .apk, etc.).  
-- Raids : interdiction d’organiser ou de participer à un raid, d’inviter massivement pour perturber le serveur.
+- Raids : interdiction d’organiser ou de participer à un raid, d’inviter massivement pour perturber le serveur.  
+- **Deepfakes** : interdiction des images, vidéos ou audios falsifiés utilisant le visage ou la voix de personnes réelles sans leur consentement.  
+- **Transactions** : Achats, ventes ou échanges de jeux, de comptes ou de biens numériques sont strictement interdits pour éviter les arnaques.  
+- **Self-Bots / Scripts** : L'utilisation de scripts ou de self-bots sur votre compte personnel est strictement interdite (conformément aux ToS Discord) et entraînera un bannissement.  
+
+**Profils Utilisateurs :**  
+- Votre pseudonyme, avatar, bannière, statut et biographie doivent impérativement être **SFW** et respecter l'ensemble du règlement (aucune insulte ni incitation à la haine).
 
 ---
 
@@ -140,7 +148,9 @@ Vous devez impérativement respecter :
 - Pas de spam de soundboard.  
 - Pas de diffusion de musique non demandée.  
 - Pas de bruits parasites volontaires.  
-- Ne pas couper systématiquement la parole aux autres.
+- Ne pas couper systématiquement la parole aux autres.  
+- L'utilisation abusive de modificateurs de voix (voice changers) très forts ou désagréables est interdite.  
+- **Sobriété exigée** : Il est interdit de rejoindre un salon vocal en étant sous l'influence de drogues ou dans un état d'ébriété avancé. Cela nuit à la bonne ambiance et met les autres membres mal à l'aise.
 
 ---
 
