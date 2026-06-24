@@ -86,9 +86,9 @@ Vous devez impérativement respecter :
 **6. Spoilers**
 
 **N'importe quel spoiler non signalé est passible de sanction**, même involontaire.
-- Les spoilers s'écrivent obligatoirement avec ces balises : `||votre texte||`.
+- Les spoilers s'écrivent obligatoirement avec ces balises : ``||votre texte||``.
 - **Format demandé** : Pour éviter de cliquer par erreur, mettez toujours le nom du jeu juste avant la balise.
-  Exemple : `[P5R] ||Ren Amamiya est le héros de Persona 5||`
+  Exemple : [P5R] ||Ren Amamiya est le héros de Persona 5||
 - Respectez les règles des salons spécifiques (sans spoiler ou full spoil).
 - Gâcher la surprise à quelqu'un qui a demandé à ne pas être spoilé est une faute grave.
 - **Concernant Persona et les autres jeux** :
