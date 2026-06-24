@@ -161,11 +161,11 @@ Vous devez impérativement respecter :
 **10. Mentions et notifications (pings)**
 
 - Ne mentionnez pas les autres à tout bout de champ.
-- Ne taguez pas le staff pour rien.
-- Ne taguez pas les gros rôles sans permission.
-- Ne spammez pas un pseudo pour qu'on vous réponde plus vite.
-- **Ghost pings** : Taguer quelqu'un et supprimer le message direct après est interdit.
-- **Pings de masse** : Taguer plein de gens sans raison est interdit.
+- Ne mentionnez pas le staff pour rien.
+- Ne mentionnez pas les gros rôles sans permission.
+- Ne mentionnez et ne spammez pas une personne pour qu'on vous réponde plus vite.
+- **Ghost pings** : Mentionner quelqu'un et supprimer le message direct après est interdit.
+- **Pings de masse** : Mentionner plein de gens sans raison est interdit.
 
 ---
 
