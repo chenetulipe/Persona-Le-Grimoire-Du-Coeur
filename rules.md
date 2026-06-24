@@ -27,7 +27,7 @@ Vous devez impérativement respecter :
 - Les insultes sont interdites, sauf dans un cadre **clairement amical et consenti**, et **dans la limite du raisonnable**.
 - **Le harcèlement, l'acharnement (dogpiling) ou le fait de suivre un membre dans plusieurs salons pour l'attaquer est interdit.**
 - **Les blagues discriminatoires ou dégradantes ne sont pas tolérées**, même sous le couvert de l'humour ou du second degré.
-- **Le ragebait** : un message fait pour provoquer une réaction forte ou un conflit n'est pas automatiquement interdit, mais le staff verra si cela va trop loin. On peut rire, mais pas nuire volontairement à l'ambiance. Un message clairement toxique ou fait pour semer la zizanie sera sanctionné.
+- **Le ragebait** : un message fait pour provoquer une réaction forte ou un conflit n'est pas automatiquement interdit, mais le staff verra si cela va trop loin. On peut rire, mais pas nuire volontairement à l'ambiance. Un message clairement toxique ou fait pour semer le désordre sera sanctionné.
 - **Le Backseat Gaming non sollicité** : Laissez les autres découvrir le jeu à leur rythme. Donner des solutions, optimiser des builds de Persona à fond ou critiquer les choix d'un joueur qui n'a rien demandé est interdit. Aidez seulement si on vous le demande explicitement.
 - **Ne jouez pas à la police** : Si quelqu'un ne respecte pas le règlement, ne faites pas justice vous-même. Ouvrez un ticket ou signalez-le calmement au staff.
 
