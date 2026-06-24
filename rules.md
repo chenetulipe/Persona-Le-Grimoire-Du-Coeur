@@ -208,9 +208,9 @@ Pour que tout le monde se sente bien en arrivant :
 Si vous ouvrez un ticket tard la nuit, on vous répondra le lendemain.
 
 **Où nous contacter :**
-- [Contactez le staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128020537311292) (Questions, problèmes)
-- [Candidature staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128035212922991) (Nous rejoindre)
-- [Contacter le haut staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128011242475561) (Plainte sur un modérateur)
+- [Contacter le staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128020537311292) (Pour toute question ou problème)
+- [Rejoindre le staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128035212922991) (Pour envoyer votre candidature)
+- [Contacter le haut staff](https://discord.com/channels/1400909421609095323/1441816983656988946/1511128011242475561) (Pour un problème avec un modérateur)
 
 **Comment bien utiliser les tickets :**
 - Restez précis et allez droit au but.
