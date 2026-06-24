@@ -7,7 +7,7 @@ Merci de lire attentivement le règlement ci-dessous.
 En rejoignant le serveur et en y postant un message, **vous acceptez implicitement toutes ces règles**. Chercher des failles dans ce règlement pour justifier un comportement toxique est considéré comme de la mauvaise foi et sera sanctionné.
 
 ---
-
+   
 ## ✧･ﾟ: *✧･ﾟ:* 📜 RÈGLES GÉNÉRALES *:･ﾟ✧*:･ﾟ✧
 
 **1. Respect des règles Discord**
@@ -108,7 +108,7 @@ Vous devez impérativement respecter :
 - **Toute publicité pour d'autres serveurs Discord est interdite**, même en privé.
 - **Pour vos créations** (fanart, fanfiction, vidéos, streams) :
   - Postez vos dessins, textes et musiques dans **#partage-artistes-créations**.
-  - **IA** : L'art généré par intelligence artificielle n'a pas sa place dans le salon créations. Vous pouvez envoyer des images IA pour rire dans les salons généraux, sans en abuser et sans vous prétendre artiste. On respecte le vrai travail manuel !
+  - **IA** : L'art généré par intelligence artificielle n'a pas sa place dans le salon créations. Vous pouvez envoyer des images IA pour rire dans les salons généraux, sans en abuser et sans vous prétendre artiste. On respecte le vrai travail artistique.
   - Pour les **vidéos ou streams**, utilisez le salon **#média**.
   - Tout ce qui touche à **Atlus, Persona ou SMT** est fortement encouragé.
   - **Ne spammez pas** : Partagez vos trucs de temps en temps, mais pas tous les jours.
