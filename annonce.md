@@ -47,10 +47,10 @@ Certains membres essaient de lancer des rumeurs infondées selon lesquelles il y
 
 Lisez attentivement le règlement (Chapitre 5) : **Tout le monde est jugé à la même enseigne.** Il n'y a aucun favoritisme. Si un membre du staff enfreint les règles, il est sanctionné et retiré de ses fonctions au même titre qu'un membre normal. En revanche, le manque de respect délibéré et constant envers des bénévoles qui donnent de leur temps libre pour gérer cette communauté, au lieu de faire autre chose de leur vie, ne sera plus toléré.
 
-### 8. Complots extérieurs, Raids et Doubles Comptes (Réf. Articles 3.2 et 4.3)
-Nous sommes parfaitement au courant de l'existence d'un groupe privé réunissant 17 personnes qui complotent dans le but de planifier des attaques et des raids contre notre serveur ou ceux de nos partenaires. Conformément aux règles fondamentales de Discord et à l'Article 4.3 de notre règlement (qui sanctionne d'office les raids par un bannissement définitif), organiser un raid coordonné depuis l'extérieur est une faute gravissime et passible d'un signalement à la plateforme.
+### 8. Groupes extérieurs, "Justiciers" et Doubles Comptes (Réf. Articles 3.1 et 3.2)
+Nous sommes parfaitement au courant de l'existence d'un groupe privé réunissant 17 personnes qui s'organisent pour jouer aux "mini justiciers". Cette pratique, qui s'apparente à du "fixing" ou à du doxxing ciblé, consiste à monter des dossiers pour harceler d'autres membres. C'est une faute gravissime. Nous ne sommes pas dans une cour de récréation, et vous n'êtes pas la justice de ce serveur. Agir en meute pour traquer les gens est strictement interdit par l'Article 3.1.
 
-De plus, si vous pensez pouvoir mener vos attaques puis revenir tranquillement avec d'autres comptes une fois bannis, c'est raté. L'utilisation de doubles comptes est strictement interdite pour contourner et éviter les sanctions. Conformément à l'Article 3.2, toute tentative de retour avec un double compte (DC) ou un compte alternatif sera automatiquement et immédiatement bloquée. Vous ne pourrez plus rentrer.
+De plus, si vous pensez pouvoir agir ainsi puis revenir tranquillement avec d'autres comptes une fois bannis, c'est raté. L'utilisation de doubles comptes est strictement interdite pour contourner et éviter les sanctions. Conformément à l'Article 3.2, toute tentative de retour avec un double compte (DC) ou un compte alternatif sera automatiquement et immédiatement bloquée. Vous ne pourrez plus rentrer.
 
 ---
 
