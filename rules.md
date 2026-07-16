@@ -9,10 +9,17 @@ En rejoignant ce serveur et en y participant, vous acceptez sans réserve les di
 
 ## Chapitre 1 : Code de Conduite et Respect Mutuel
 
-### 1.1. Respect d'autrui
+### 1.1. Respect des règles Discord
+En tant qu'utilisateur de cette plateforme, vous êtes tenu de respecter strictement les règles officielles de Discord :
+- Les **[Conditions d'Utilisation de Discord (ToS)](https://discord.com/terms)**
+- La **[Charte d'Utilisation de la Communauté (Guidelines)](https://discord.com/guidelines)**
+
+Tout manquement à ces règles fondamentales peut entraîner des sanctions sévères, incluant un signalement direct auprès de la plateforme.
+
+### 1.2. Respect d'autrui
 Le respect mutuel entre les membres est une obligation stricte. Les propos agressifs, provocateurs, toxiques ou insultants sont formellement proscrits. Les comportements assimilables à du harcèlement, à de l'acharnement (dogpiling) ou au fait de suivre un membre dans différents salons pour l'attaquer ne seront en aucun cas tolérés.
 
-### 1.2. Tolérance zéro envers la discrimination
+### 1.3. Tolérance zéro envers la discrimination
 Toute forme de discrimination, qu'elle soit directe, indirecte ou dissimulée, est strictement interdite. **Les blagues discriminatoires ou dégradantes ne sont pas tolérées, même sous le couvert de l'humour ou du second degré.** 
 Les discriminations prohibées incluent, de manière non exhaustive :
 - **Racisme et Xénophobie** : Tout propos dénigrant une ethnie, une origine ou une culture.
@@ -22,16 +29,16 @@ Les discriminations prohibées incluent, de manière non exhaustive :
 - **Validisme et Grossophobie** : Toute moquerie liée à l'apparence physique, à la corpulence, ou à une situation de handicap (physique, mental ou invisible).
 - **Discrimination religieuse** : Les attaques personnelles visant les convictions ou les croyants. (Critiquer une institution reste autorisé, mais les généralités blessantes sont proscrites).
 
-### 1.3. Provocation (Ragebait)
+### 1.4. Provocation (Ragebait)
 Tout message conçu exclusivement pour déclencher une réaction émotionnelle forte, provoquer de la colère ou initier un conflit ("ragebait") sera évalué par l'équipe de modération. L'humour et la dérision sont permis, mais toute volonté manifeste de nuire à la cohésion ou à l'ambiance du serveur constitue une infraction.
 
-### 1.4. Aide au jeu (Backseat Gaming)
+### 1.5. Aide au jeu (Backseat Gaming)
 Il est impératif de respecter le rythme et la découverte des autres joueurs. Le "Backseat Gaming" non sollicité (imposer des solutions, optimiser à outrance des stratégies, ou critiquer les choix d'un joueur qui n'a rien demandé) est interdit. L'assistance et les conseils ne sont autorisés que s'ils sont explicitement sollicités par le joueur.
 
-### 1.5. Débats et sujets polarisants
+### 1.6. Débats et sujets polarisants
 Afin de préserver la vocation vidéoludique du serveur, les débats d'ordre politique, géopolitique, religieux ou hautement polarisants (élections, conflits internationaux) n'ont pas leur place dans les salons de discussion générale.
 
-### 1.6. Divulgations et Spoilers
+### 1.7. Divulgations et Spoilers
 Le respect de l'expérience de jeu d'autrui est primordial. Tout élément de l'intrigue (fins de jeu, boss, révélations majeures, DLC) doit impérativement être dissimulé via les balises de masquage prévues à cet effet (`||texte||`), précédées du nom de l'œuvre concernée (ex. : `[P5R] ||...||`).
 Cette règle s'applique avec la même rigueur au partage d'informations issues de fuites (leaks) ou d'exploration de données (datamining) concernant les titres à venir. Gâcher l'expérience d'un membre ayant demandé à ne pas être spoilé est considéré comme une faute grave.
 
